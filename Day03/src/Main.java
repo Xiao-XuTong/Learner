@@ -7,5 +7,6 @@ public class Main {
         int i1 = sc.nextInt();
         int i2 = sc.nextInt();
         System.out.println(i1+i2);
+        System.out.println("try git");
     }
 }
